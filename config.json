@@ -1,0 +1,8 @@
+{
+  "frame_skip": 5,
+  "video_path": "sample_video.mp4",
+  "model": {
+    "yolo_model": "models/yolov8n-face.pt"
+  },
+  "database_path": "face_tracker.db"
+}

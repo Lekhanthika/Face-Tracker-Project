@@ -1,0 +1,11 @@
+faceenv/
+__pycache__/
+*.pyc
+*.pkl
+*.db
+*.onnx
+*.mp4
+.DS_Store
+
+faceenv/
+faceenv/
